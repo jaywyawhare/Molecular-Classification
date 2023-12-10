@@ -25,6 +25,12 @@ git clone https://github.com/jaywyawhare/Molecular-Classification
 pip install -r requirements.txt
 ```
 
+## Model Architecture
+
+<!-- pic embed from ./models/model.png -->
+
+![Model Architecture](./models/model.png)
+
 ## Future Improvements
 
 - Hyperparameter tuning for models to enhance performance.
